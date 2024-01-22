@@ -1,0 +1,21 @@
+Name: Variables
+Id: g=2079a6da0a217f13ac9e44e4fb1b128b
+Type: FolderType
+Children:
+- Name: Short
+  Id: g=3e69d91d4d0656c7caac22d16767423a
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Longer Name Here
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: This is a longer name than the previous one
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: LongerNameWithNoSpaces
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
